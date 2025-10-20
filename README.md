@@ -1,3 +1,8 @@
+<img width="1330" height="746" alt="Screenshot 2025-09-23 133705" src="https://github.com/user-attachments/assets/b352a2b1-7820-4b81-98f5-5375133e495a" />
+<img width="1330" height="740" alt="Screenshot 2025-09-23 133727" src="https://github.com/user-attachments/assets/8583bb03-dbbe-4d34-b8fe-04b972ae0fa0" />
+<img width="1324" height="746" alt="Screenshot 2025-09-23 133743" src="https://github.com/user-attachments/assets/3f29ada2-ca8e-4b26-a53c-a3ba3cf15862" />
+<img width="1323" height="744" alt="Screenshot 2025-09-23 133804" src="https://github.com/user-attachments/assets/c7a698f2-70ff-4e7d-949f-cdef00b831fc" />
+
 🚀 Excited to share my latest Project on KPI Analysis!
 
 The Project built using Power BI, Python, SQL, and Excel. This project was designed to transform raw HR and business data into meaningful insights for better decision-making.
